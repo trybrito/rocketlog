@@ -15,7 +15,7 @@
   "license": "ISC",
   "description": "A products delivery API",
   "dependencies": {
-    "@prisma/client": "^5.19.1",
+    "@prisma/client": "^6.2.1",
     "bcrypt": "^5.1.1",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
